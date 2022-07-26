@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/demo-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-saga-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-toolkit-with-saga" vcs="Git" />
+  </component>
+</project>
